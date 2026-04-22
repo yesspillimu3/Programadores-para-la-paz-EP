@@ -1,0 +1,10 @@
+pasos para crear una pagina web
+Definir el objetivo de la pagina
+Planificar el contenido de la pagina
+diseñar la estructura de la pagina
+elegir tecnologias o lengua de programacion a usar
+crear la estructura base
+aplicar estilos
+probar la estructura
+publicar la pagina
+actualizar la información
