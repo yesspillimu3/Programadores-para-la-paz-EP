@@ -1,0 +1,10 @@
+El control de versiones con Git es fundamental en el desarrollo de software porque
+permite registrar cada cambio realizado en un proyecto a lo largo del tiempo.
+Gracias a esto, es posible saber quién hizo cada modificación, cuándo la hizo
+y cuál fue el motivo, lo que se conoce como trazabilidad.
+En equipos de trabajo, Git permite que varias personas colaboren en el mismo
+proyecto sin sobrescribir el trabajo de los demás, evitando pérdidas de información.
+Además, si se comete un error, Git permite regresar a una versión anterior del
+proyecto de forma rápida y segura.
+Sin una herramienta como Git, los proyectos serían difíciles de mantener y organizar,
+especialmente cuando crecen en tamaño y complejidad. 
