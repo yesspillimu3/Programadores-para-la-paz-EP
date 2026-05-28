@@ -1,0 +1,13 @@
+Las APIs permiten que diferentes sistemas compartan información de forma
+organizada y estructurada, lo cual es muy valioso para las comunidades.
+Por ejemplo, una comunidad podría construir una API que reciba reportes
+de sus integrantes sobre problemas del barrio, alertas de seguridad o
+necesidades colectivas, y esa información podría llegar automáticamente
+a plataformas de gestión o a las autoridades locales.
+Gracias a las APIs, no es necesario que todos los sistemas estén construidos
+con la misma tecnología para que puedan comunicarse, lo que facilita la
+integración con herramientas ya existentes.
+Además, las APIs permiten que la información fluya en tiempo real, lo que
+es crucial en situaciones de emergencia donde una alerta debe llegar rápido.
+En conclusión, las APIs son una herramienta poderosa para que las comunidades
+organicen, compartan y actúen sobre su propia información de manera eficiente.
