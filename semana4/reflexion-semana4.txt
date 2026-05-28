@@ -1,0 +1,11 @@
+Es fundamental que las comunidades y organizaciones ciudadanas puedan construir sus propias
+herramientas tecnológicas, porque les permite resolver problemas específicos de su contexto
+sin depender de soluciones comerciales costosas o que no se ajustan a sus necesidades reales.
+Tecnologías abiertas como Node.js ofrecen libertad para crear, modificar y distribuir software
+sin restricciones de licencias privativas, lo que reduce barreras económicas para comunidades
+con recursos limitados. Además, el uso de tecnología propia fortalece la autonomía digital
+de las comunidades, ya que no quedan atadas a decisiones externas sobre sus datos o servicios.
+También fomenta el aprendizaje colectivo y la participación activa de personas que antes eran
+solo consumidoras de tecnología, convirtiéndolas en creadoras. Finalmente, construir desde lo
+abierto permite colaborar con otras comunidades, compartir soluciones y generar un impacto
+social más amplio y sostenible a largo plazo.
