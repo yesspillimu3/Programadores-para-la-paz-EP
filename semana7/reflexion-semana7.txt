@@ -1,0 +1,12 @@
+Poder registrar y consultar reportes en una plataforma tecnológica es fundamental
+para que las comunidades tengan un canal organizado de comunicación sobre sus
+necesidades y problemáticas. Sin una herramienta así, los reportes se pierden
+en conversaciones informales o en papeles que nadie sistematiza. Una API que
+permita guardar y consultar incidencias facilita que las autoridades o líderes
+comunitarios tengan una visión clara de los problemas más frecuentes y urgentes.
+Además, al tener los reportes organizados por tipo, es más fácil priorizar
+las acciones y hacer seguimiento a cada caso. La tecnología también permite
+que cualquier ciudadano pueda consultar el estado de las incidencias registradas,
+lo que genera transparencia y confianza en el proceso. En conclusión, una
+plataforma de reportes fortalece la participación ciudadana y hace más eficiente
+la gestión comunitaria.
