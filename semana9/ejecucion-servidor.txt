@@ -1,0 +1,16 @@
+¿Qué ocurre cuando ejecutas node server.js?
+Al ejecutar node server.js, Node.js inicia el servidor y lo pone en espera
+de solicitudes entrantes en el puerto 3000.
+
+¿Qué mensaje aparece en la terminal?
+Aparece el mensaje: "Servidor ejecutándose en puerto 3000"
+Esto confirma que el servidor está activo y listo para recibir solicitudes.
+
+¿Qué sucede cuando visitas la ruta /estado?
+Al visitar http://localhost:3000/estado el servidor responde con un objeto JSON:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+Esto confirma que el servidor está procesando correctamente las solicitudes
+y devolviendo información estructurada al cliente.
