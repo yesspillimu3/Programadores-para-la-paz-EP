@@ -1,0 +1,20 @@
+Flujo de automatización con n8n y Telegram
+
+¿Qué evento activa el flujo?
+Un ciudadano envía un nuevo reporte a través de la ruta POST /reportes
+de la API comunitaria. Este evento activa automáticamente el flujo en n8n.
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido en el sistema. Tipo: Infraestructura.
+Por favor revisar el panel de incidencias para más detalles."
+
+¿Qué información NO debería enviarse por seguridad?
+- Nombres completos del ciudadano que reportó.
+- Número de documento de identidad.
+- Dirección exacta o ubicación precisa del reportante.
+- Número de teléfono o correo electrónico.
+- Contraseñas, tokens o claves de API.
+- Datos que permitan identificar directamente a una persona.
+
+Solo debe enviarse información general que permita al equipo
+saber que hay un nuevo reporte, sin exponer datos personales.

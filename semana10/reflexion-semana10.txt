@@ -1,0 +1,14 @@
+Las metodologías ágiles permiten organizar el trabajo en comunidades
+de manera ordenada y flexible, priorizando las tareas más importantes
+y entregando resultados concretos en cada iteración. En lugar de esperar
+meses para ver resultados, el enfoque ágil permite avanzar paso a paso
+y ajustar según las necesidades reales de la comunidad. El backlog ayuda
+a que todos los miembros del equipo tengan claridad sobre qué se debe
+hacer y en qué orden, evitando confusiones y duplicación de esfuerzos.
+La automatización con herramientas como n8n reduce el trabajo manual
+repetitivo, permitiendo que el equipo se enfoque en tareas más importantes.
+Telegram como canal de notificación facilita la comunicación inmediata
+entre coordinadores y ciudadanos, haciendo que los procesos de participación
+sean más ágiles y transparentes. En conjunto, estas herramientas fortalecen
+la capacidad organizativa de las comunidades y hacen que la tecnología
+sea realmente útil para la participación ciudadana.
