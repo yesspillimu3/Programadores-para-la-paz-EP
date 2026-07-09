@@ -1,0 +1,14 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita
+base de datos para guardar de forma organizada y persistente los reportes,
+causas y registros que los ciudadanos generan. Sin base de datos, toda
+la información se perdería al reiniciar el servidor. La autenticación
+es fundamental para garantizar que solo personas autorizadas puedan
+acceder a funciones sensibles como eliminar reportes o ver información
+privada, evitando que actores malintencionados manipulen los datos.
+La protección de información es una responsabilidad ética, especialmente
+en plataformas comunitarias donde las personas comparten situaciones
+vulnerables o denuncias que podrían ponerlas en riesgo si se exponen.
+Una plataforma sin estas capas de seguridad pierde la confianza de la
+comunidad y puede causar daños reales a sus participantes. Por eso,
+base de datos, autenticación y protección de datos no son opcionales,
+sino pilares fundamentales de cualquier plataforma ciudadana responsable.
