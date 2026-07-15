@@ -1,0 +1,15 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta
+poderosa para fortalecer la participación ciudadana cuando se usa de
+forma responsable y con un propósito claro. Comprendí cómo construir
+servidores con Node.js y Express, cómo organizar datos con modelos
+estructurados, cómo proteger información sensible mediante autenticación
+y buenas prácticas de seguridad, y cómo automatizar notificaciones para
+que las comunidades puedan reaccionar rápidamente ante nuevos eventos.
+También aprendí la importancia de las metodologías ágiles para organizar
+el trabajo en equipo y entregar resultados concretos paso a paso.
+El proyecto "Petición en 3 Clics" me permitió ver cómo todos estos
+componentes se integran en una solución real que puede ayudar a una
+comunidad a registrar causas, recolectar apoyos y generar documentos
+formales para presentar ante las autoridades. Concluyo que la tecnología
+abierta, bien aplicada y con enfoque comunitario, puede transformar
+la forma en que las personas participan y organizan sus territorios.
